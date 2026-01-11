@@ -8,13 +8,13 @@ Information Security (InfoSec) is a critical field in computer science and IT, f
 
 # Course materials include:
 
-## Lecture slides
+### Lecture slides
   
-## Reference papers and articles
+### Reference papers and articles
 
-## Lecture Slides and summaries
+### Lecture Slides and summaries
 
-## Assignments and practice problems
+### Assignments and practice problems
 
 
 🗂 Repository Structure
@@ -30,7 +30,7 @@ Information-Security-Course/
 │
 ├─ Assignments/            # Exercises, projects, and solved examples
 
-## 🎯 Topics Covered
+### 🎯 Topics Covered
 
 Introduction to Information Security
 
@@ -130,3 +130,4 @@ Please fork the repository and submit a pull request.
 👏 Acknowledgments
 
 Thanks to all authors, educators, and researchers whose materials have contributed to this repository.
+
