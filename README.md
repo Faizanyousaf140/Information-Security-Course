@@ -12,8 +12,6 @@ Information Security (InfoSec) is a critical field in computer science and IT, f
   
 ### Reference papers and articles
 
-### Lecture Slides and summaries
-
 ### Assignments and practice problems
 
 
@@ -130,4 +128,5 @@ Please fork the repository and submit a pull request.
 👏 Acknowledgments
 
 Thanks to all authors, educators, and researchers whose materials have contributed to this repository.
+
 
