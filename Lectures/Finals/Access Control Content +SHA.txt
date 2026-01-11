@@ -1,0 +1,4 @@
+1 . https://www.sailpoint.com/identity-library/what-are-the-different-types-of-access-control-systems
+2 . https://medium.com/@tahirbalarabe2/who-are-you-and-what-are-you-allowed-to-do-13762a009ef0
+3 . https://lis.academy/ict-fundamentals/aaa-security-model-authentication-authorization-auditing/
+4 . https://signmycode.com/blog/md5-vs-sha1-vs-sha2-vs-sha3
